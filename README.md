@@ -9,8 +9,7 @@ Student Performance Factors (Kaggle): https://www.kaggle.com/datasets/lainguyn12
 - `analysis.ipynb`: full analysis with statistical summary, correlation analysis, and charts
 - `StudentPerformanceFactors.csv`: the dataset
 - `cross_check.xlsx`: spreadsheet check of the mean, median, standard deviation, and correlations
-- `charts/`: five charts used in the notebook
-
+- `charts/`: 01_ to 05_ in the main folder
 ## How to run
 1. Open `analysis.ipynb` in Jupyter, Colab, or Kaggle.
 2. Make sure the CSV is in the same folder, or update the file path in the first cell.
